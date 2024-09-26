@@ -1,0 +1,36 @@
+{
+    "layer": "top", 
+    
+    "position": "top",
+    
+    "height": 30, 
+
+    "spacing": 5, 
+
+    "padding": 15,
+
+    "margin-top": 10,
+    "margin-left": 15,
+    "margin-right": 15,
+
+    // Modules
+    "include": [
+        "~/.config/waybar/modules.json"
+    ],    
+    "modules-left": [
+        "custom/appmenu",
+        "wlr/taskbar"
+    ],
+    "modules-center": [
+        "hyprland/workspaces"
+    ],
+    "modules-right": [
+		"tray",
+        "cpu", 
+        "network", 
+        "pulseaudio", 
+        "battery", 
+        "clock", 
+        "custom/exit"
+    ]
+}
