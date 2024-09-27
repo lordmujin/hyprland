@@ -5,5 +5,5 @@
 ### Window Manager stuff:
 ### hyprland hyprpaper hyprlock pyprland wofi nwg-look kitty wlogout waybar
 
-### Programs used
+### Programs used:
 ### zen-browser nemo geany btop pavucontrol
