@@ -6,7 +6,7 @@
 ### hyprland hyprpaper hyprlock hyprshot pyprland wofi nwg-look kitty wlogout waybar
 
 ### Programs used:
-### zen-browser nemo loupe geany btop pavucontrol
+### zen-browser nemo loupe geany btop pavucontrol fastfetch pokeget
 
 ### Theme/Fonts (included in the repo):
 ### NordicDarker BibataModernIceCursor // ttf-sazanami JetBrainsMonoNerdFont HackNerdFont SymbolsNerdFont
