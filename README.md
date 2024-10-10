@@ -7,3 +7,6 @@
 
 ### Programs used:
 ### zen-browser nemo loupe geany btop pavucontrol
+
+### Theme/Fonts (included in the repo):
+### NordicDarker BibataModernIceCursor // ttf-sazanami JetBrainsMonoNerdFont HackNerdFont SymbolsNerdFont
