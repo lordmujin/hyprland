@@ -10,3 +10,8 @@
 
 ### Theme/Fonts (included in the repo):
 ### NordicDarker BibataModernIceCursor // ttf-sazanami JetBrainsMonoNerdFont HackNerdFont SymbolsNerdFont
+
+## Install
+```
+yay -S hyprland hyprpaper hyprlock hyprshot pyprland wofi swaync nwg-look kitty wlogout waybar
+```
