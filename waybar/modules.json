@@ -64,7 +64,7 @@
     // CPU
     "cpu": {
         "format": "  {usage}% ",
-        "on-click": "kitty -e btop"
+        "on-click": "kitty --class floating -e btop"
     },
     
    // Network
@@ -78,7 +78,7 @@
         "tooltip-format-ethernet": "󰈀  {ifname} ({ipaddr}/{cidr})",
         "tooltip-format-disconnected": "Disconnected",
         "max-length": 50,
-        "on-click": "kitty -e nmtui"
+        "on-click": "kitty --class floating -e nmtui"
     },
 
     // Battery
@@ -90,14 +90,14 @@
         },
         "format": " {icon} {capacity}% ",
         "format-charging": "  {capacity}% ",
-        "format-plugged": "  {capacity} %",
+        "format-plugged": "  {capacity} % ",
         "format-alt": " {icon} {time} ",
         "format-icons": [" ", " ", " ", " ", " "]
     },
 
     // Pulseaudio
     "pulseaudio": {
-        // "scroll-step": 1, // %, can be a float
+        "scroll-step": 5, // %, can be a float
         "format": " {icon} {volume}% ",
         "format-bluetooth": " {volume}% {icon} {format_source} ",
         "format-bluetooth-muted": "  {icon} {format_source} ",

@@ -232,6 +232,7 @@ slider {
 
 .control-center-dnd {
   margin-top: 5px;
+  margin-bottom: 10px;
   border-radius: 8px;
   background: #363a4f;
   border: 1px solid #494d64;
