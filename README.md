@@ -9,7 +9,7 @@ yay -S hyprland hyprpaper hyprlock hyprshot pyprland wofi swaync nwg-look kitty 
 ```
 
 ### Programs used:
-### zen-browser nemo loupe geany btop pavucontrol fastfetch pokeget eza
+### zen-browser nemo yazi loupe geany btop pavucontrol fastfetch pokeget eza
 
 ### Theme/Fonts (included in the repo):
-### NordicDarker BibataModernIceCursor // ttf-sazanami JetBrainsMonoNerdFont HackNerdFont SymbolsNerdFont
+### NordicDarker ZafiroNordDark BibataModernIceCursor // ttf-sazanami JetBrainsMonoNerdFont HackNerdFont SymbolsNerdFont
